@@ -41,7 +41,7 @@ const DoctorDashBoard = () => {
             <h5 className="mb-4">Menu</h5>
             <Nav className="flex-column">
               <Nav.Link as={Link} to="mypatient">🩺 My Appointments</Nav.Link>
-              <Nav.Link as={Link} to="patients">📋 Patient List</Nav.Link>
+           
             </Nav>
           </Col>
 
