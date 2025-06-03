@@ -1,81 +1,3 @@
-
-
-
-// const Footer = () => {
-//   return (
-//     <>
-//       <div id="footer">
-//         <div style={{ display: "flex", flexDirection: "column" }}>
-//           <th>
-//             Home
-//           </th>
-
-//           <th>
-//             About
-//           </th>
-
-//           <th>
-//             Contact
-//           </th>
-
-//           <th>
-//             Service
-//           </th>
-//           <th>
-//             address
-//           </th>
-//         </div>
-//         <div style={{ display: "flex", flexDirection: "column" }}>
-//           <th>
-//             Home
-//           </th>
-
-//           <th>
-//             About
-//           </th>
-
-//           <th>
-//             Contact
-//           </th>
-
-//           <th>
-//             Service
-//           </th>
-//           <th>
-//             address
-//           </th>
-//         </div>
-//         <div style={{ display: "flex", flexDirection: "column" }}>
-//           <th>
-//             Home
-//           </th>
-
-//           <th>
-//             About
-//           </th>
-
-//           <th>
-//             Contact
-//           </th>
-
-//           <th>
-//             Service
-//           </th>
-//           <th>
-//             address
-//           </th>
-//         </div>
-
-//       </div>
-
-//     </>
-//   )
-// }
-
-
-// export default Footer;
-
-
     import React from 'react';
 import {
   MDBFooter,
@@ -168,10 +90,10 @@ const Footer = () => {
       </MDBContainer>
 
       <div className='text-center text-dark p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        © 2020 Copyright:
-        <a className='text-dark' href='https://mdbootstrap.com/'>
-          MDBootstrap.com
-        </a>
+        © 2025 Copyright:
+        
+          MXPERTZ INFOLABS
+        
       </div>
     </MDBFooter>
 
